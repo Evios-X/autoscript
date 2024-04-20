@@ -1,6 +1,10 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=A+u+t+o+S+c+r+i+p+t By Evios-X" />
-</p>AutoScript By Evios-X
+<div align="center">
+<h1>AutoScript By Evios-X</h1>
+TELEGRAM OWNER: <a href="https://t.me/nazriapi">KLIK DISINI</a> <br>
+TELEGRAM FOR ORDERS : <a href="https://t.me/eviosx">KLIK DISINI</a> <br>
+WHATSAPP : <a href="https://wa.me/6285955267315">KLIK DISINI</a> 
+</div>
+
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
 ```
@@ -17,4 +21,9 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Evios-X/autoscript/main/setup.sh && chmod +x setup.sh && ./setup.sh
+```
+
+## UPDATE SCRIPT
+```
+wget -q https://raw.githubusercontent.com/Evios-X/autoscript/main/update.sh && chmod +x update.sh && ./update.sh
 ```
