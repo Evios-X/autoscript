@@ -1,4 +1,6 @@
-AutoScript By Evios-X
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=A+u+t+o+S+c+r+i+p+t By Evios-X" />
+</p>AutoScript By Evios-X
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
 ```
