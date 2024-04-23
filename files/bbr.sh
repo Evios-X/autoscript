@@ -1,4 +1,8 @@
 #!/bin/bash
+# Develovers : Evios-X
+# telegrup   : https://t.me/eviosx
+# telegram   : https://t.me/nazriapi or https://t.me/GEW_Of
+# whatsapp   : https://wa.me/685955267315
 
 red='\e[1;31m'
 green='\e[0;32m'
